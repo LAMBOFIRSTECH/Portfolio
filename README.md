@@ -20,6 +20,7 @@ This repository serves as a central showcase of my professional projects, built 
 | 🌐 **Web Application** | Frontend + API bridge for microservices | ASP.NET MVC, Bootstrap, REST | [View Repo](https://github.com/LAMBOFIRSTECH/WebApplication) |
 | 📦 **NuGet Package** | Custom .NET class library for shared logic | C#, NuGet | [View Repo](https://github.com/LAMBOFIRSTECH/Nuget-Package) |
 
+others microservices are still in progress
 ---
 
 ## 🛠️ Technologies & Tools
