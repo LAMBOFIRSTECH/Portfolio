@@ -37,7 +37,7 @@ others microservices are still in progress
 ## ⚙️ Key Highlights
 
 - Clean Architecture + Domain-Driven Design principles
-- Fully containerized microservices, API-first approach
+- Fully containerized microservices, API-first approach + RabbitMq (For API notification)
 - Dockerfile + docker-compose support for each project
 - All our docker images are dowloading on DockerHub
 - CI/CD-ready projects (with pipelines in GitLab CI or GitHub Actions)
