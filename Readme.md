@@ -9,7 +9,7 @@ Welcome to my DevOps and Backend Engineering portfolio.
 
 ---
 
-## 🔹 Projects Overview
+## 🔹 Projects Overview (Remember we are working on a Microservice Architecture
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
