@@ -1,6 +1,3 @@
-# Portfolio
-Synthèse générale du projet de gestion de ressources humaines
-
 # 🧠 DevOps Portfolio – Artur Tchinde Lambo
 
 Welcome to my DevOps and Backend Engineering portfolio.
