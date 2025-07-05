@@ -2,7 +2,10 @@
 
 Welcome to my DevOps and Backend Engineering portfolio.
 
-This repository serves as a central showcase of my professional projects, built using microservices architecture, containerized environments, secure APIs, and CI/CD best practices.
+| **Type**            | **Message**                                                                                                                                                               |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **📝 Description**   | This repository serves as a central showcase of my professional projects, built using microservices architecture, containerized environments, secure APIs, and CI/CD best practices. |
+| **🎯 Objective Final** | The ultimate goal of the project is to deploy the application on a Virtual Private Server (VPS), making it directly accessible for users.                              |
 
 ---
 
