@@ -24,13 +24,13 @@ others microservices are still in progress
 
 - **Languages**: C#, Bash, YAML, Python
 - **Frameworks**: .NET 8 / .NET Core, Entity Framework Core
-- **DevOps Tools**: Docker, Docker Compose, GitLab CI, Trivy for non vulnerabilities docker images and Docker bench to secure docker container
-- **Secrets & Security**: HashiCorp Vault(Secrets) Consul(For services discovery) - Nomad (For orchestration), AppRole (each API need credentials to interact with Vault using AppRole), JWT (Asymetric algorithm)
+- **DevOps Tools**: SonarQube, Burp Suite, Docker, Docker Compose, GitLab CI, Trivy for non vulnerabilities docker images and Docker bench to secure docker container
+- **Secrets & Security**: HashiCorp Vault(Secrets) , AppRole (each API need credentials to interact with Vault using AppRole), JWT (Asymetric algorithm)
 - **Automation**: Ansible, Bash and python scripts, Git hooks
-- **Observability**: Prometheus, Grafana, ELK, Graylog
-- **Auth & API Gateway**: Keycloak (IAM, Standard Ldap and SSO), Nginx, Traefik, Gravitee
+- **Observability**: OpenTelemetric, Prometheus, Grafana, ELK, Graylog
+- **Auth & API Gateway**: Keycloak (IAM, Standard Ldap and SSO), Nginx, Traefik, Gravitee io
 - **Databases**: SQL Server (On a windows server Machine 2019), PostgreSQL, MongoDB
-- **Infrastructure**: Nomad, Consul, OpenLDAP, Redis
+- **Infrastructure**: Consul(For services discovery), Nomad (For orchestration), OpenLDAP, Redis
 
 ---
 
