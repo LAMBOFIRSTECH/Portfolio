@@ -13,6 +13,7 @@ Welcome to my DevOps and Backend Engineering portfolio.
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
+| 🔐 **Auth‑Microservice** | Manages authentication | .NET 6, Docker, JWT | [View Repo](https://github.com/LAMBOFIRSTECH/Auth-microservice) |
 | 🧩 **Team Microservice** | Manages team entities (CRUD, authentication, data model) | .NET 8, EF Core, Docker, JWT | [View Repo](https://github.com/LAMBOFIRSTECH/Team-microservice) |
 | 🔧 **Infra Microservice** | Handles system/infrastructure-level logic and automation | .NET, Docker, API REST | [View Repo](https://github.com/LAMBOFIRSTECH/Infra-microservice) |
 | 📚 **Competencies Microservice** | Skill and competencies manager with secure endpoints | .NET, Entity Framework, Docker | [View Repo](https://github.com/LAMBOFIRSTECH/Competencies-microservice) |
@@ -69,4 +70,4 @@ I believe in reliable delivery, transparency, and long-term system stability.
 ---
 
 Thanks for visiting this repo 🙏  
-Feel free to explore, fork, or reach out!
+Feel free to explore, fork, or reach out! 
