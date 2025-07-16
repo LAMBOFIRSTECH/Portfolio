@@ -2,12 +2,19 @@
 
 Welcome to my DevOps and Backend Engineering portfolio.
 
+
 | **Type**            | **Message**                                                                                                                                                               |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **📝 Description**   | This repository serves as a central showcase of my professional projects, built using microservices architecture, containerized environments, secure APIs, and CI/CD best practices. |
 | **🎯 Objective Final** | The ultimate goal of the project is to deploy the application on a Virtual Private Server (VPS), making it directly accessible for users.                              |
 
 ---
+
+## 🚀 MVP Launch Videos & Demos (still in process not yet done)
+
+These MVPs are functional, containerized microservices deployed in real or simulated environments. Each includes a live demo or narrated video walkthrough.
+
+For detailed each MVP see [MVP](https://github.com/LAMBOFIRSTECH/Portfolio/blob/main/MVPs.md)
 
 ## 🔹 Projects Overview (Remember we are working on a Microservice Architecture)
 
