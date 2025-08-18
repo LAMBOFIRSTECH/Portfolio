@@ -22,7 +22,7 @@ For detailed each MVP see [MVP](https://github.com/LAMBOFIRSTECH/Portfolio/blob/
 |--------|-------------|-------|------|
 | 🔐 **Auth‑Microservice** | Manages authentication | .NET 6, Docker, JWT | [View Repo](https://github.com/LAMBOFIRSTECH/Auth-microservice) |
 | 🧩 **Team Microservice** | Manages team entities (CRUD, authentication, data model) | .NET 8, EF Core, Docker, JWT | [View Repo](https://github.com/LAMBOFIRSTECH/Team-microservice) |
-| 🔧 **Infra Microservice** | Handles system/infrastructure-level logic and automation | .NET, Docker, API REST | [View Repo](https://github.com/LAMBOFIRSTECH/Infra-microservice) |
+| 🔧 **Infrastructure** | Handles system/infrastructure-level logic and automation | .NET, Docker, API REST | [View Repo](https://github.com/LAMBOFIRSTECH/Infra-microservice) |
 | 📚 **Competencies Microservice** | Skill and competencies manager with secure endpoints | .NET, Entity Framework, Docker | [View Repo](https://github.com/LAMBOFIRSTECH/Competencies-microservice) |
 | 🎓 **Major Microservice** | Manages academic majors & learning paths | .NET 8, SQL Server, REST | [View Repo](https://github.com/LAMBOFIRSTECH/Major-microservice) |
 | 🌐 **Web Application** | Frontend + API bridge for microservices | ASP.NET MVC, Bootstrap, REST | [View Repo](https://github.com/LAMBOFIRSTECH/WebApplication) |
